@@ -1,5 +1,5 @@
 # CU Image Recognition Neural Network
-Senior capstone project for Cumberland University. The purpose for this project was to create a convolutional neural network for image recognition in order to give a simple example of what automated cars do in order to detect obstacles on the road. The project utilized the TensorFlow platform and Keras libraries.
+Senior capstone project for Cumberland University. The purpose for this project was to create a simple convolutional neural network for image recognition in order to give a simple example of what automated cars do in order to detect obstacles on the road. The project utilized the TensorFlow platform and Keras libraries.
 
 jvazquez_nncode_v3.02.2.py creates the neural network model and trains it using the CIFAR-10 tiny image data set. It achieves about 84% accuracy identifying objects in images correctly.
 
